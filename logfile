@@ -1,0 +1,5 @@
+2021-12-16 21:16:57.373 UTC [2996] LOG:  starting PostgreSQL 12.9 (Ubuntu 12.9-2.pgdg20.04+1) on x86_64-pc-linux-gnu, compiled by gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0, 64-bit
+2021-12-16 21:16:57.374 UTC [2996] LOG:  listening on IPv6 address "::1", port 5432
+2021-12-16 21:16:57.374 UTC [2996] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-12-16 21:16:57.376 UTC [2996] FATAL:  could not create lock file "/var/run/postgresql/.s.PGSQL.5432.lock": Permission denied
+2021-12-16 21:16:57.377 UTC [2996] LOG:  database system is shut down
